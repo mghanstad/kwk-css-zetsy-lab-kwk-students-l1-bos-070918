@@ -100,3 +100,9 @@ body {
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
     display: block;
 }
+
+body {
+    background: #F3EBE9;
+    font-size: 100%;
+    font-family: 'Times New Roman', serif;
+}

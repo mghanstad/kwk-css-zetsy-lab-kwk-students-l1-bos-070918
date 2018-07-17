@@ -71,3 +71,8 @@ p {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
 }
+
+footer {
+    text-align: right;
+    background: #fff;
+}
